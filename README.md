@@ -58,7 +58,7 @@ launch 的配置项里也有 **`userDataDir`** 的配置：
 
 Chrome DevTools 的 **`Performance`** 工具是性能分析和优化的利器，因为它可以记录每一段代码的耗时，进而分析出性能瓶颈，然后做针对性的优化。
 
-1. **`如何用 Performance 工具分析并优化性能`**
+### 1. 如何用 Performance 工具分析并优化性能
 
 **`性能分析`** 
 
@@ -148,7 +148,7 @@ Chrome DevTools 的 **`Performance`** 工具是性能分析和优化的利器，
 <br/>
 <br/>
 
-2. **`会用 Performance 工具，就能深入理解 Event Loop.`**
+### 2. 会用 Performance 工具，就能深入理解 Event Loop
 
 网页加载后，浏览器会解析 html、执行 js 、渲染 css，这些工作都是在 Event Loop 里完成的，理解了 Event Loop 就能理解网页的运行流程。
 
